@@ -35,10 +35,15 @@ After you're finished please remove all the comments and instructions!
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -55,13 +60,26 @@ After you're finished please remove all the comments and instructions!
 
 > This project has build using simple <b>HTML</b> & <b>CSS</b>
 
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- **HTML**
+- **CSS**
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 Download the repo and open index.html file using a Browser.
 
-### Prerequisites
+### Prerequisites <a name="prerequisites"></a>
 
 In order to run this project you need a browser. [Firefox, Chrome, Safari]
+
+### Setup <a name="setup"></a>
+
+Clone this repository to your desired folder:
 
 <!-- AUTHORS -->
 
@@ -79,6 +97,12 @@ In order to run this project you need a browser. [Firefox, Chrome, Safari]
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/microverseinc/readme-template/issues).
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse for the opportunity to learn such a unique way.
 
 ## ⭐️ Show your support <a name="support"></a>
 
